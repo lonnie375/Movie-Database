@@ -1,0 +1,15 @@
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.exe
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.deps.json
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.runtimeconfig.json
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.dll
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\bin\Debug\net6.0\MovieDataBase.pdb
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.csproj.AssemblyReference.cache
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.AssemblyInfoInputs.cache
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.AssemblyInfo.cs
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.dll
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\refint\MovieDataBase.dll
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.pdb
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\MovieDataBase.genruntimeconfig.cache
+C:\Users\lonni\source\GrandCircus\MovieDataBase\MovieDataBase\obj\Debug\net6.0\ref\MovieDataBase.dll
